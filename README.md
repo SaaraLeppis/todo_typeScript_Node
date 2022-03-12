@@ -82,10 +82,10 @@ const createTodo: RequestHandler = (req, res, next) =>
 
 ### General view of usage
 
-![Postman POST]('./assets/Screenshot_general1.jpeg')
-![Postman PATCH and DELETE]('./assets/Screenshot_general2.jpeg')
+![Postman POST](./assets/Screenshot_general1.jpeg)
+![Postman PATCH and DELETE](./assets/Screenshot_general2.jpeg)
 
 - for 'DELETE' and 'PATCH' copy the id to end of address
 
 - remember to choose 'Body - raw - JSON'
-  ![Postman view selection]('./assets/Screenshot_selection.jpeg')
+  ![Postman view selection](./assets/Screenshot_selection.jpeg)
